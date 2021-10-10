@@ -2,36 +2,21 @@
   "users": [
     {
       "id": 1,
-      "name": "samueldear"
-    }
-  ],
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
+      "name": "samueldear",
+      "email": "samuel@samueldear.com"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "name": "osca16",
+      "email": "magrey@hotmail.com"
     },
     {
       "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "name": "luisdam26",
+      "email": "luisdam@traumapp.com"
     }
   ],
   "profile": {
-    "name": "Samuel"
+    "name": "Samuel Rojas"
   }
 }
